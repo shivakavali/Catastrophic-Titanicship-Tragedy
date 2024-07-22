@@ -1,2 +1,2 @@
-# Mini-Project-on-Titanic-Data-Analysis
-I did a small mini project on the data of Titanic ship hazard.
+# Mini-Project-on-Catastrophic-Titanic-Data-Analysis
+I did a mini project on the data of the Titanic ship disaster.
